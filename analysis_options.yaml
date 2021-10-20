@@ -1,0 +1,17 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - prefer_single_quotes
+    - sort_child_properties_last
+    - always_declare_return_types
+    - unawaited_futures
+    - unsafe_html
+    - use_full_hex_values_for_flutter_colors
+    - always_put_required_named_parameters_first
+    - always_put_control_body_on_new_line
+    - use_named_constants
+    - require_trailing_commas
+    - only_throw_errors
+    - sort_constructors_first
+    - omit_local_variable_types
